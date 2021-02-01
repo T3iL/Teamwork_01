@@ -1,7 +1,7 @@
 # Teamwork_01
 
 ### ToDo
-1. ``Szkielet strony (Michał)``
+1. ~~Szkielet strony (Michał)~~
 1.1. pliki style.css i app.js
 2. Layout strony (Mikołaj)
 1.1. Kolory
