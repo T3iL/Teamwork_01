@@ -1,4 +1,4 @@
-# Teamwork_01 - UWAGA - Nadałem wam wszystkim dostęp do zapisu do tego repo (nie musicie czekać na pull requesty)
+# Teamwork_01 - UWAGA - Nadałem wam wszystkim dostęp do do tego repo z prawem zapisu (nie musicie czekać na pull requesty)
 
 ### ToDo
 #### 1. ~~Szkielet strony [Michał]~~
