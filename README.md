@@ -9,7 +9,7 @@
 3. CSS [Konrad, Marcin]
 - ~~Bgr~~
 - Fonts
-4.Fetch data [Dawid/Kamil]
+4. Fetch data [Dawid/Kamil]
 - ~~Fetch API~~
 - ~~Create elements~~
 - Iterate data (forEach) - funkcja wypisz
