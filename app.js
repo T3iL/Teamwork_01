@@ -4,6 +4,7 @@
 //         console.log(response);
 //     })
 
+const main = document.querySelector("#main")
 
     const data = {
         "name": "Tatooine", 
@@ -46,15 +47,11 @@ wypisz(data)
 
     function wypisz(json){
         console.log(json)
-        const person = json;
-
-        const container = document.querySelector('#main');
-        const card = document.createElement('div');
-
-        card.classList.add('card')
 
         const object = document.createElement('div')
 
         object.classList.add('gender');
-        object.innerHTML = 'name: <strong>' + person.name + '</strong>';
+        object.innerHTML = 'name: <strong>dfghhjjjkikk</strong>';
+
+        main.appendChild(object)
     }
