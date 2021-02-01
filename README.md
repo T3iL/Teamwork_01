@@ -1,6 +1,11 @@
 # Teamwork_01
-<<<<<<< HEAD
-kamil     konarzewski
-=======
-peirwszyyy!
->>>>>>> bde8c49f4742d601d90b897c42c2967618c39e97
+
+### Team members:
+
+1 Mikolaj (Projekt graficzny)
+2 Michał (Full stack)
+3 Marcin (CSS)
+4 Konrad (CSS)
+5 Dawid (Fetch)
+6 Kamil (Fetch)
+
