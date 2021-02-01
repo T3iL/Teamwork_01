@@ -1,0 +1,60 @@
+// fetch("http://swapi.dev/api/planets/1")
+//     .then(response => response.json())
+//     .then(response => {
+//         console.log(response);
+//     })
+
+
+    const data = {
+        "name": "Tatooine", 
+        "rotation_period": "23", 
+        "orbital_period": "304", 
+        "diameter": "10465", 
+        "climate": "arid", 
+        "gravity": "1 standard", 
+        "terrain": "desert", 
+        "surface_water": "1", 
+        "population": "200000", 
+        "residents": [
+            "http://swapi.dev/api/people/1/", 
+            "http://swapi.dev/api/people/2/", 
+            "http://swapi.dev/api/people/4/", 
+            "http://swapi.dev/api/people/6/", 
+            "http://swapi.dev/api/people/7/", 
+            "http://swapi.dev/api/people/8/", 
+            "http://swapi.dev/api/people/9/", 
+            "http://swapi.dev/api/people/11/", 
+            "http://swapi.dev/api/people/43/", 
+            "http://swapi.dev/api/people/62/"
+        ], 
+        "films": [
+            "http://swapi.dev/api/films/1/", 
+            "http://swapi.dev/api/films/3/", 
+            "http://swapi.dev/api/films/4/", 
+            "http://swapi.dev/api/films/5/", 
+            "http://swapi.dev/api/films/6/"
+        ], 
+        "created": "2014-12-09T13:50:49.641000Z", 
+        "edited": "2014-12-20T20:58:18.411000Z", 
+        "url": "http://swapi.dev/api/planets/1/"
+    }
+
+wypisz(data)
+
+    // const url = 'http://swapi.dev/api/planets/';
+    // users.results.forEach(name => wypisz(name))
+
+    function wypisz(json){
+        console.log(json)
+        const person = json;
+
+        const container = document.querySelector('#main');
+        const card = document.createElement('div');
+
+        card.classList.add('card')
+
+        const object = document.createElement('div')
+
+        object.classList.add('gender');
+        object.innerHTML = 'name: <strong>' + person.name + '</strong>';
+    }
