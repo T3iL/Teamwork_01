@@ -1,15 +1,15 @@
 # Teamwork_01 - UWAGA - Nadałem wam wszystkim dostęp do zapisu do tego repo (nie musicie czekać na pull requesty)
 
 ### ToDo
-1. ~~Szkielet strony [Michał]~~
+#### 1. ~~Szkielet strony [Michał]~~
 - ~~pliki style.css i app.js~~
 - Formularz wyszukiwania [Michał]
-2. Layout strony [Mikołaj]
+#### 2. Layout strony [Mikołaj]
 - Kolory (wpisać do README)[Michał]
-3. CSS [Konrad, Marcin]
+#### 3. CSS [Konrad, Marcin]
 - ~~Bgr~~
 - Fonts
-4. Fetch data [Dawid/Kamil]
+#### 4. Fetch data [Dawid/Kamil]
 - ~~Fetch API~~
 - ~~Create elements~~
 - Iterate data (forEach) - funkcja wypisz
