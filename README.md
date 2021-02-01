@@ -1,2 +1,5 @@
 # Teamwork_01
-Mikołaj Susek
+
+### Team members:
+
+1.Mikołaj (Projekt graficzny)
