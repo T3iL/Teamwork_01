@@ -2,16 +2,16 @@
 
 ### ToDo
 1. ~~Szkielet strony (Michał)~~
-1.1. pliki style.css i app.js
+- pliki style.css i app.js
 2. Layout strony (Mikołaj)
-1.1. Kolory
+- Kolory
 3. CSS (Konrad, Marcin)
-3.1. Bgr
-3.2. Fonts
+- Bgr
+- Fonts
 4.Fetch data (Dawid/Kamil)
-4.1.Fetch API
-4.2. Create elements
-4.3. Iterate data (forEach)
+- Fetch API
+- Create elements
+- Iterate data (forEach)
 
 ### Team members:
 
