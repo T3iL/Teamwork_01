@@ -15,6 +15,16 @@
 - Iterate data (forEach) - funkcja wypisz
 - funkcja wyszukaj
 
+20210208
+
+1. Struktora katalogów
+
+src
+  - img
+  - ui
+  - styles
+  - js
+
 ### Team members:
 
 1. Mikolaj (Projekt graficzny)
