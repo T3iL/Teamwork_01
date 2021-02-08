@@ -28,3 +28,5 @@
 primary:
 secondary:
 action:
+
+!(/STAR WARS FANWIKI.png)[Layout]
