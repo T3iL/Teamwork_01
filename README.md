@@ -17,13 +17,17 @@
 
 20210208
 
-1. Struktora katalogów
+1. Struktura katalogów [Łukasz]
 
 src
   - img
   - ui
   - styles
   - js
+
+2. Implementacja Layoutu z projektu
+
+
 
 ### Team members:
 
