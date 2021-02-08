@@ -27,7 +27,7 @@ src
 
 2. Implementacja Layoutu z projektu
   - responsywność [Michał]
-  - 
+  - projekt formularza wyszukiwania [Mikołaj]
 
 
 ### Team members:
