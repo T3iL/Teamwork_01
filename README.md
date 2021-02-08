@@ -26,7 +26,8 @@ src
   - js
 
 2. Implementacja Layoutu z projektu
-
+  - responsywność [Michał]
+  - 
 
 
 ### Team members:
