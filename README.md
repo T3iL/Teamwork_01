@@ -15,6 +15,23 @@
 - Iterate data (forEach) - funkcja wypisz
 - funkcja wyszukaj
 
+20210208
+
+1. Struktura katalogów [Łukasz]
+
+src
+  - img
+  - ui
+  - styles
+  - js
+
+2. Implementacja Layoutu z projektu
+  - responsywność [Michał]
+  - projekt formularza wyszukiwania [Mikołaj]
+  - implementyacja wyszukiwania [Konrad]
+  - wypisywanie odpowiedzi na ekranie [Marcin]
+
+
 ### Team members:
 
 1. Mikolaj (Projekt graficzny)
