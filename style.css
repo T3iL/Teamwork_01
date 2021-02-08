@@ -12,19 +12,40 @@ body {
 
 #logo {
     margin-left: 10px;
-    margin-top: 10px;
+    margin: top 10px;
     margin-bottom: 10px;
 }
 
 img {
-    width: 120px;
-    height: 80px;
+    width: 70px;
+    height: 67px;
+}
+
+ul {
+    display:inline;
+    list-style-type: none;
+    position:absolute;
+    top:20px;
+    right:20px;
 }
 
 #main {
-    width: 1900px;
+    width: 900px;
     height: 900px;
     border-radius: 5%;
     background-color: #989898;
     margin-top: 30px;
+    position:absolute;
+    left: calc(50% - 450px);
 }
+
+.line1{
+    background:#737373;
+    border-radius: 20px;
+    text-align:center;
+    position:relative;
+    left:calc(50% - 350px);
+    width:700px;
+    height:70px;
+    margin-top:4px;
+    }

@@ -53,4 +53,8 @@ primary:
 secondary:
 action:
 
+### Images
+- Darth Vader Helmet "https://img.pngio.com/pin-en-star-wars-darth-vader-mask-clipart-2068_2009.png"
+- Magnifier "https://www.flaticon.com/free-icon/magnifier_64673"
+
 ![Layout](/STAR%20WARS%20FANWIKI.png)
