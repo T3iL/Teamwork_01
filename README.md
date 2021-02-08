@@ -29,6 +29,7 @@ src
   - responsywność [Michał]
   - projekt formularza wyszukiwania [Mikołaj]
   - implementyacja wyszukiwania [Konrad]
+  - wypisywanie odpowiedzi na ekranie [Marcin]
 
 
 ### Team members:
