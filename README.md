@@ -29,4 +29,4 @@ primary:
 secondary:
 action:
 
-!(/STAR WARS FANWIKI.png)[Layout]
+!(Layout)[/STAR WARS FANWIKI.png]
