@@ -1,8 +1,9 @@
-// fetch("http://swapi.dev/api/planets/1")
-//     .then(response => response.json())
-//     .then(response => {
-//         console.log(response);
-//     })
+fetch("http://swapi.dev/api/planets/1")
+    .then(response => response.json())
+    .then(response => {
+        console.log(response);
+        wypisz(response)
+    })
 
 const main = document.querySelector("#main")
 
@@ -40,7 +41,7 @@ const main = document.querySelector("#main")
         "url": "http://swapi.dev/api/planets/1/"
     }
 
-wypisz(data)
+// wypisz(data)
 
     // const url = 'http://swapi.dev/api/planets/';
     // users.results.forEach(name => wypisz(name))
@@ -48,10 +49,10 @@ wypisz(data)
     function wypisz(json){
         console.log(json)
 
-        const object = document.createElement('div')
+        const object = document.createElement('pre')
 
         object.classList.add('gender');
-        object.innerHTML = 'name: <strong>dfghhjjjkikk</strong>';
+        object.innerHTML = JSON.stringify(json,null,2);
 
         main.appendChild(object)
     }
