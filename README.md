@@ -27,17 +27,17 @@ src
 
 2. Implementacja Layoutu z projektu
   - responsywność [Michał]
-  - projekt formularza wyszukiwania [Mikołaj]
+  - ~~projekt formularza wyszukiwania [Mikołaj]~~
   - implementacja wyszukiwania [Konrad]
   - wypisywanie odpowiedzi na ekranie [Marcin]
 
 3. Implementacja Javascript:
- - funkcja wyszukaj
- - obsługa katetgorii (dropdown)
+ - funkcja wyszukaj [Konrad]
+ - obsługa katetgorii (dropdown) [Marcin]
  
 4. Modyfikacje
- - Home page ( spis kategorii )
- - Data tree
+ - Home page (Object.keys) ( spis kategorii ) [Marcin]
+ - Data tree (wyświetlenie elementów z danej kategorii) [Mikołaj] 
 
 ### Team members:
 
