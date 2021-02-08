@@ -28,7 +28,7 @@ src
 2. Implementacja Layoutu z projektu
   - responsywność [Michał]
   - projekt formularza wyszukiwania [Mikołaj]
-  - implementyacja wyszukiwania [Konrad]
+  - implementacja wyszukiwania [Konrad]
   - wypisywanie odpowiedzi na ekranie [Marcin]
 
 3. Implementacja Javascript:
