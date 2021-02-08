@@ -33,11 +33,6 @@ src
 
 3. Implementacja Javascript:
  - funkcja wyszukaj
- - obsługa katetgorii (dropdown)
- 
-4. Modyfikacje
- - Home page ( spis kategorii )
- - Data tree
 
 ### Team members:
 
