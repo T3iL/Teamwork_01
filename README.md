@@ -12,8 +12,8 @@
 #### 4. Fetch data [Dawid/Kamil]
 - ~~Fetch API~~
 - ~~Create elements~~
-- Iterate data (forEach) - funkcja wypisz
-- funkcja wyszukaj
+- ~~Iterate data (forEach) - funkcja wypisz~~
+
 
 20210208
 
@@ -31,6 +31,8 @@ src
   - implementyacja wyszukiwania [Konrad]
   - wypisywanie odpowiedzi na ekranie [Marcin]
 
+3. Implementacja Javascript:
+ - funkcja wyszukaj
 
 ### Team members:
 
