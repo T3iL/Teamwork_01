@@ -29,4 +29,4 @@ primary:
 secondary:
 action:
 
-![Layout](/STAR WARS FANWIKI.png)
+![Layout](/STAR%20WARS%20FANWIKI.png)
