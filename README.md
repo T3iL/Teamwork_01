@@ -3,12 +3,12 @@
 ### ToDo
 #### 1. ~~Szkielet strony [Michał]~~
 - ~~pliki style.css i app.js~~
-- Formularz wyszukiwania [Michał]
+- ~~Formularz wyszukiwania [Michał]~~
 #### 2. Layout strony [Mikołaj]
-- Kolory (wpisać do README)[Michał]
+- Kolory (wpisać do README)[Mikołaj]
 #### 3. CSS [Konrad, Marcin]
 - ~~Bgr~~
-- Fonts
+- Fonts: (wpisać jaki font) 
 #### 4. Fetch data [Dawid/Kamil]
 - ~~Fetch API~~
 - ~~Create elements~~
