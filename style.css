@@ -20,6 +20,10 @@ body {
     margin-bottom: 10px;
 }
 
+#search {
+    align-items: center;
+}
+
 img {
     width: 70px;
     height: 67px;
