@@ -76,6 +76,13 @@ li a:hover {
     border-radius:15px;
 }
 
+#search {
+    position:absolute;
+    top:20%;
+    left:50px;
+    border:1px solid red;
+}
+
 #main {
     width: 900px;
     height: 900px;
