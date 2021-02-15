@@ -11,7 +11,7 @@ export default function wypisz(json){
         const item = document.createElement('div')
         item.classList.add('item');
                    
-        item.innerHTML = name + '' + height;
+        item.innerHTML = name + ' height:' + height;
 
         main.appendChild(item)
     })
