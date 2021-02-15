@@ -22,7 +22,7 @@ export default function wypisz(json){
         const item = document.createElement('div')
         item.classList.add('line1');
                    
-        item.innerHTML = 'Name: ' + name + ', ' + 'Wzrost: ' + height + ' cm, ' + 'Waga: ' + mass + 'kg, ' + 'Kolor włosów: ' + hair_color + ', ' + 'Płeć: ' + gender + ', ' + 'Rok urodzenia: ' + birth_year + ', ' + 'Kolor oczu: ' + eye_color;
+        item.innerHTML = 'Nazwa: ' + name + ', ' + 'Wzrost: ' + height + ' cm, ' + 'Waga: ' + mass + 'kg, ' + 'Kolor włosów: ' + hair_color + ', ' + 'Płeć: ' + gender + ', ' + 'Rok urodzenia: ' + birth_year + ', ' + 'Kolor oczu: ' + eye_color;
         card.appendChild(item)
         main.appendChild(card)
     })
