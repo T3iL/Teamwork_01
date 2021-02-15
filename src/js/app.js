@@ -5,7 +5,11 @@ const summary = document.querySelector("#summary")
 const btn = document.getElementById("lupa")
 const input = document.querySelector("#query")
 
+<<<<<<< HEAD
+let query = '';
+=======
 // querySelector().onclick = function(){myScript};
+>>>>>>> 2404fba5114237548198c897ba02b9b2b9974fea
 
 btn.addEventListener('click',zapytaj)
 
