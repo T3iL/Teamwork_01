@@ -15,9 +15,9 @@ body {
 }
 
 #logo {
-    margin-left: 10px;
-    margin: top 10px;
-    margin-bottom: 10px;
+    position:absolute;
+    top:1%;
+    left:2%;
 }
 
 #search {
@@ -46,7 +46,6 @@ li a {
     display:block;
     padding:10px;
     margin-right:30px;
-    border:1px solid red;
     font-family: 'M PLUS Rounded 1c';
     font-size:20px;
 }
