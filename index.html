@@ -5,35 +5,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>StarWars Fanwiki</title>
     <link rel="stylesheet" href="style.css">
+    <script type="module" src="./src/js/app.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@700&family=Roboto:wght@100&family=Russo+One&display=swap" rel="stylesheet">    
 </head>
 
 <body>
     <div id="container">
         <div id="header">
-
             <div id="logo"><img src="/src/img/Darth_vader_helmet.png"></div>
             <div id="lower"></div>
             <div id="upper"></div>
             <div id="menu">
                 <ul>
-                    <li>Postcie</li>
-                    <li>Planety</li>
-                    <li>Statki</li>
+                    <li><a>Postcie</a></li>
+                    <li><a>Planety</a></li>
+                    <li><a>Statki</a></li>
                 </ul>
             </div>
         </div>
+<<<<<<< HEAD
         <div id="main"> 
            
         
+=======
+        <div id='search'>
+
+            <input type="text" name="query" id="query"></input>
+            <select name="cat" id="cat">
+                <option value="films">films</option>
+                <option value="people">people</option>
+                <option value="planets">planets</option>
+                <option value="vechicles">vechicles</option>
+                <option value="spaceships">spaceships</option>
+              </select>
+        <button id='lupa' >\lupa\</button>
+        </div>
+        <div id="main">
+            <div class="line1"><img src="/src/img/people/darkvader.jpg"></div>
+            <div class="line1"></div>
+            <div class="line1"></div>
+            <div class="line1"></div>
+            <div class="line1"></div>
+            <div class="line1"></div>
+            <div class="line1"></div>
+            <div class="line1"></div>
+>>>>>>> 2404fba5114237548198c897ba02b9b2b9974fea
         </div>
 
 
 
         <div id="summary"></div>
     </div>
-    <script type="module" src="./src/js/app.js"></script>
+
 </body>
 
 </html>
