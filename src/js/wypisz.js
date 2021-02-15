@@ -1,5 +1,7 @@
 export default function wypisz(json){
+    
     console.log('----------',json)
+    document.getElementsByClassName('class').remove();
 
     const count = json.results.length;
 
