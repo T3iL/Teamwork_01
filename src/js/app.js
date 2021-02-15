@@ -1,10 +1,18 @@
 import wypisz from './wypisz.js'
+import changecategory from './changecategory.js'
 
 const main = document.querySelector("#main")
 const summary = document.querySelector("#summary")
 const btn = document.getElementById("lupa")
 const input = document.querySelector("#query")
 const category = document.querySelector("#cat")
+const men = document.querySelector("#menu")
+const menuitems = document.querySelectorAll(".menuitem")
+console.log (menuitems)
+
+menuitems.forEach((menuitem)=>{
+    menuitem.addEventListener('click',changecategory)
+})
 
 // querySelector().onclick = function(){myScript};
 
@@ -14,7 +22,8 @@ function zapytaj(){
 
     const query = input.value;
     const cat = category.value;
-    console.log (cat)
+    const men = menu.value;
+    console.log (men)
 
     console.log('wypisanie')
     fetch(`http://swapi.dev/api/${cat}?search=${query}`)
