@@ -27,8 +27,8 @@ img {
 
 #menu {
     position:absolute;
-    top:20px;
-    right:20px;
+    top:1%;
+    right:5%;
 }
 
 ul {
@@ -41,6 +41,8 @@ li a {
     padding:10px;
     margin-right:20px;
     border:1px solid red;
+    font-family: 'M PLUS Rounded 1c';
+    font-size:20px;
 }
 
 #main {
