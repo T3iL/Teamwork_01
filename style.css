@@ -45,6 +45,11 @@ li a {
     font-size:20px;
 }
 
+li a:hover {
+    background-color:green;
+    border-radius:5px;
+}
+
 #main {
     width: 900px;
     height: 900px;
