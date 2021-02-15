@@ -3,6 +3,9 @@ import wypisz from './wypisz.js'
 const main = document.querySelector("#main")
 const summary = document.querySelector("#summary")
 
+querySelector().onclick = function(){myScript};
+
+
 function src(x){
     let query = x
     }
