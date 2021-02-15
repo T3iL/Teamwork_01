@@ -1,3 +1,7 @@
+
+/*Dostępne czcionki: "Roboto", "Russo One", "M PLUS Rounded 1c" */
+
+
 body {
     background-color: #c4c4c4;
 }
@@ -21,14 +25,22 @@ img {
     height: 67px;
 }
 
+#menu {
+    position:absolute;
+    top:20px;
+    right:20px;
+}
+
 ul {
     display:flex;
     list-style: none;
 }
 
 li a {
-    display:inline-block;
-
+    display:block;
+    padding:10px;
+    margin-right:20px;
+    border:1px solid red;
 }
 
 #main {
