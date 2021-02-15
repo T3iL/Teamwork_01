@@ -22,11 +22,13 @@ img {
 }
 
 ul {
-    display:inline;
-    list-style-type: none;
-    position:absolute;
-    top:20px;
-    right:20px;
+    display:flex;
+    list-style: none;
+}
+
+li a {
+    display:inline-block;
+
 }
 
 #main {
