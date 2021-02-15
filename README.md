@@ -48,6 +48,11 @@ src
 5. Dawid (Fetch)
 6. Kamil (Fetch)
 
+### Fonts
+- Roboto
+- Russo one
+- M PLUS Rounded 1c Bold 700
+
 ### Color palette
 primary:
 secondary:
