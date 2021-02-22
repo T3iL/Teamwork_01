@@ -1,11 +1,13 @@
 # Teamwork_01 - UWAGA - Nadałem wam wszystkim dostęp do do tego repo z prawem zapisu (nie musicie czekać na pull requesty)
 
+DEPLOYED TO: https://starwarsfanwiki.netlify.app/
+
 ### ToDo
 #### 1. ~~Szkielet strony [Michał]~~
 - ~~pliki style.css i app.js~~
 - ~~Formularz wyszukiwania [Michał]~~
 #### 2. Layout strony [Mikołaj]
-- Kolory (wpisać do README)[Mikołaj]
+- Kolory (wpisać do README numery kolorów)[Mikołaj]
 #### 3. CSS [Konrad, Marcin]
 - ~~Bgr~~
 - Fonts: (wpisać jaki font) 
@@ -14,6 +16,15 @@
 - ~~Create elements~~
 - ~~Iterate data (forEach) - funkcja wypisz~~
 
+### 5. Poprawa layoutu (CSS)
+
+### 6. Korekta błędu z konsoli dotyczącego blokady niezabezpieczonego źródła (JS)
+
+### 7. Responsywność (testing on mobile)
+
+### 8. Użycie obrazków w odpowiedziach (należy wcześniej pobrać więcej obrazów, stworzyć z nich tabelę i wykrywac czy szukany obraz istnieje)
+
+### 9. Połączyć ilnki w odpowiedziach do odpowiednich nowych zapytań (możliwość przenoszenia się do kolejnych wyszukań)
 
 20210208
 
