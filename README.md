@@ -16,11 +16,11 @@ DEPLOYED TO: https://starwarsfanwiki.netlify.app/
 - ~~Create elements~~
 - ~~Iterate data (forEach) - funkcja wypisz~~
 
-#### 5. Poprawa layoutu (CSS)
+#### 5. Poprawa layoutu (CSS) (Łukasz)
 
-#### 6. Korekta błędu z konsoli dotyczącego blokady niezabezpieczonego źródła (JS)
+#### 6. Korekta błędu z konsoli dotyczącego blokady niezabezpieczonego źródła (JS) (Volodymir)
 
-#### 7. Responsywność (testing on mobile)
+#### 7. Responsywność (testing on mobile) (Kamil)
 
 #### 8. Użycie obrazków w odpowiedziach (należy wcześniej pobrać więcej obrazów, stworzyć z nich tabelę i wykrywac czy szukany obraz istnieje)
 
