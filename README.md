@@ -16,15 +16,15 @@ DEPLOYED TO: https://starwarsfanwiki.netlify.app/
 - ~~Create elements~~
 - ~~Iterate data (forEach) - funkcja wypisz~~
 
-### 5. Poprawa layoutu (CSS)
+#### 5. Poprawa layoutu (CSS)
 
-### 6. Korekta błędu z konsoli dotyczącego blokady niezabezpieczonego źródła (JS)
+#### 6. Korekta błędu z konsoli dotyczącego blokady niezabezpieczonego źródła (JS)
 
-### 7. Responsywność (testing on mobile)
+#### 7. Responsywność (testing on mobile)
 
-### 8. Użycie obrazków w odpowiedziach (należy wcześniej pobrać więcej obrazów, stworzyć z nich tabelę i wykrywac czy szukany obraz istnieje)
+#### 8. Użycie obrazków w odpowiedziach (należy wcześniej pobrać więcej obrazów, stworzyć z nich tabelę i wykrywac czy szukany obraz istnieje)
 
-### 9. Połączyć ilnki w odpowiedziach do odpowiednich nowych zapytań (możliwość przenoszenia się do kolejnych wyszukań)
+#### 9. Połączyć ilnki w odpowiedziach do odpowiednich nowych zapytań (możliwość przenoszenia się do kolejnych wyszukań)
 
 20210208
 
