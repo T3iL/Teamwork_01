@@ -26,7 +26,7 @@ function zapytaj(){
     console.log (men)
 
     console.log('wypisanie')
-    fetch(`http://swapi.dev/api/${cat}?search=${query}`)
+    fetch(`https://swapi.dev/api/${cat}?search=${query}`)
         .then(response => response.json())
         .then(response => {
             console.log(response);
